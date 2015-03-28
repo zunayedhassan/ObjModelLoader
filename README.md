@@ -16,6 +16,7 @@ Exporting as Obj File on Blender:
 			file only.
 
 Sample Usage:
+
 		ObjModelLoader *mesh = NULL;
 		mesh = new ObjModelLoader("C:\\data\\filename.obj");
 
